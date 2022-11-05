@@ -1,5 +1,16 @@
+### How to install
 
- FlankSource JS code exam
+`nvm use 16.10`
+
+`npm install`
+
+`npm run start`
+
+to test
+
+`npm run test`
+
+FlankSource JS code exam
 
  The task here is to create and display using the data in data.js:
 
